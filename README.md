@@ -57,3 +57,7 @@ dsh plugin --profile desktop add github:<你的用户名>/<仓库名>
 ## 效果演示
 ![插件运行效果](./assets/plugin-demo1.png.png)
 ![插件运行效果](./assets/plugin-demo2.png.png)
+
+## 插件应用
+
+把安装包丢给DSH即可使用
