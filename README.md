@@ -53,3 +53,7 @@ dsh plugin --profile desktop add github:<你的用户名>/<仓库名>
 ## 仓库说明
 
 上传 GitHub 时只需要本目录，不需要 `node_modules`、`.dsh` profile 或已安装的 junction。仓库根目录应直接包含 `package.json`、`index.js`、`ingest.js`、`client.js`、`cordis.patch.yml`、`locale/` 和 `icon.svg`。
+
+## 效果演示
+![插件运行效果](./assets/plugin-demo1.png)
+![插件运行效果](./assets/plugin-demo2.png)
